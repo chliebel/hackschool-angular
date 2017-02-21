@@ -33,6 +33,6 @@ cd hackschool-angular
 npm install   # or yarn (if installed)
 ```
 
-Or, if you prefer SSH, use this checkout URL: `https://github.com/chliebel/hackschool-angular.git`
+Or, if you prefer SSH, use this checkout URL: `git@github.com:chliebel/hackschool-angular.git`
 
 That’s all for now! See you on Saturday. If you have any questions in the meantime, feel free to [drop me a Tweet](https://twitter.com/chris_liebel).
