@@ -28,11 +28,11 @@ Yes, that’s latest and greatest software. The speaker’s got a nerve!
 Next, navigate to a folder of your choice and execute:
 
 ```
-git clone git@github.com:chliebel/hackschool-angular.git
+git clone https://github.com/chliebel/hackschool-angular.git
 cd hackschool-angular
 npm install   # or yarn (if installed)
 ```
 
-If SSH doesn’t work for you, feel free to use the HTTPS checkout URL: `https://github.com/chliebel/hackschool-angular.git`
+Or, if you prefer SSH, use this checkout URL: `https://github.com/chliebel/hackschool-angular.git`
 
 That’s all for now! See you on Saturday. If you have any questions in the meantime, feel free to [drop me a Tweet](https://twitter.com/chris_liebel).
